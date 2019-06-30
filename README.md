@@ -2,6 +2,12 @@
 
 Web server to provide a simple mutex api of a global `lock` and `unlock`.
 
+## Docker Image
+
+[![](https://images.microbadger.com/badges/version/reallyliri/mutex:1.0.svg)](https://microbadger.com/images/reallyliri/mutex:1.0 "Get your own version badge on microbadger.com")
+
+Available on [Dockerhub](https://hub.docker.com/r/reallyliri/mutex) or by pulling `reallyliri/mutex:1.0`.
+
 ## Build
 
 `docker build -t mutex .`
